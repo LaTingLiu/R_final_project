@@ -1,0 +1,5 @@
+dt = read.csv("./data/typhoon_twit.csv", header=T, sep=",")
+dt_E = read.csv("./data/earthquakes_twit.csv", header=T, sep=",")
+dt_W = read.csv("./data/winter_twit.csv", header=T, sep=",")
+dt_Thun = read.csv("./data/thunder_twit.csv", header=T, sep=",")
+dt_F = read.csv("./data/fire_twit.csv", header=T, sep=",")
